@@ -12,7 +12,7 @@ Actually :
   [<img alt="linkedin-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/ben-guillemot/)
 
 ### Languages and Tools : 
-```html
+
 <div>
 <img align="left" alt="HTML-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
@@ -32,7 +32,7 @@ Actually :
 <img align="left" alt="VSC-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="TRELLO-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
-```
+</br>
 
 ### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Guillemot&hide=stars,issues&count_private=true)
