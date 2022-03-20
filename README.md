@@ -28,7 +28,7 @@ Actually :
 <img align="left" alt="SLACK-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GIT-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="VSC-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="TRELLO-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="TRELLO-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 
 
 ### My Github Stats
