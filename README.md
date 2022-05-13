@@ -5,7 +5,6 @@ Hi everyone!! I'm Ben and I'm a full stack developer. I really enjoy learning la
 Actually :
 
 - 🔭 I am currently working on a website project that you will be able to see very soon ...
-- 🌱 I’m currently learning Vue.js ...
 - ⚡ Fun fact: I am drummer for a rock band, I like to ride my motorbike with my friends and of course I love coding !!
 
 ### 📫 How to reach me: 
