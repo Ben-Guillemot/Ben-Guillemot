@@ -38,6 +38,7 @@ Actually :
 ### Last projects :
  - Olleks project [presentaion](https://youtu.be/Vdx7nAM-qWY) 
  - [Jester Soul website](https://jester-soul-band.com)
+ - [Maely's Cafe website](https://maelys-cafe.fr/home)
 
 
 <!--
